@@ -1,6 +1,6 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=FF3131&center=true&vCenter=true&width=900&lines=I'm+Abdellah+Akhssay;Ethical+Hacker;network+%7C+python+%7C+Linux" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=FF3131&center=true&vCenter=true&width=900&lines=I'm+Abdellah+Akhssay;Ethical+Hacker+%7CPenetration+Testing;network+%7C+python+%7C+Linux" />
 </p>
 
 <!-- ===================== PROFILE VIEWS ===================== -->
