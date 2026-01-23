@@ -1,5 +1,19 @@
-## Hi 
+<!-- ===================== HERO SECTION ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=FF3131&center=true&vCenter=true&width=900&lines=I'm+Abdellah+Akhssay;Ethical+Hacker;Penetration+Testing+%7C+bug bounty" />
+</p>
 
+<!-- ===================== PROFILE VIEWS ===================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdellahAkhssay&label=Profile%20Views&color=FF3131&style=for-the-badge" alt="profile views" />
+</p>
+
+<!-- ===================== HACKER IMAGE ===================== -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420" alt="hacker terminal animation" />
+</p>
+
+---
 # 💫 About Me:
 ​🛡️ Identity: An aspiring Ethical Hacker on a mission to secure the digital world.<br>​🎓 Education: Currently diving deep into the fundamentals of Penetration Testing and Cybersecurity.<br>​🚀 Main Goal: Learning how to break things to make them stronger.<br>​🧠 Knowledge Base: Focusing on OWASP Top 10, Network Security, and Linux Administration.<br>​🚩 Active Learner: Spending my free time solving labs on TryHackMe and HackTheBox
 
