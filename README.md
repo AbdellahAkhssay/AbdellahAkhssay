@@ -1,6 +1,6 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=FF3131&center=true&vCenter=true&width=900&lines=I'm+Abdellah+Akhssay;Ethical+Hacker;Penetration+Testing+%7C+bug bounty" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=FF3131&center=true&vCenter=true&width=900&lines=I'm+Abdellah+Akhssay;Ethical+Hacker;Penetration+Testing+%7C+Cybersecurity+%7C+Linux" />
 </p>
 
 <!-- ===================== PROFILE VIEWS ===================== -->
@@ -12,6 +12,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420" alt="hacker terminal animation" />
 </p>
+
+---
 
 ---
 # 💫 About Me:
