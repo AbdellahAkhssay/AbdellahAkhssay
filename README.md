@@ -1,4 +1,4 @@
-## Hi i'm abdellah👋
+## Hi 
 
 # 💫 About Me:
 ​🛡️ Identity: An aspiring Ethical Hacker on a mission to secure the digital world.<br>​🎓 Education: Currently diving deep into the fundamentals of Penetration Testing and Cybersecurity.<br>​🚀 Main Goal: Learning how to break things to make them stronger.<br>​🧠 Knowledge Base: Focusing on OWASP Top 10, Network Security, and Linux Administration.<br>​🚩 Active Learner: Spending my free time solving labs on TryHackMe and HackTheBox
